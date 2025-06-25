@@ -22701,7 +22701,7 @@
 				)
 			)
 		)
-		(property "Value" "244"
+		(property "Value" "243"
 			(at 237.49 193.04 90)
 			(effects
 				(font
@@ -22908,7 +22908,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "16.3k"
+		(property "Value" "16.2k"
 			(at 322.58 295.9099 0)
 			(effects
 				(font
@@ -24372,7 +24372,7 @@
 				)
 			)
 		)
-		(property "Value" "244"
+		(property "Value" "243"
 			(at 237.49 44.45 90)
 			(effects
 				(font
@@ -25053,7 +25053,7 @@
 				)
 			)
 		)
-		(property "Value" "244"
+		(property "Value" "243"
 			(at 237.49 93.98 90)
 			(effects
 				(font
@@ -30739,7 +30739,7 @@
 				)
 			)
 		)
-		(property "Value" "244"
+		(property "Value" "243"
 			(at 237.49 143.51 90)
 			(effects
 				(font
@@ -34184,7 +34184,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "9k"
+		(property "Value" "9.09k"
 			(at 276.86 368.2999 0)
 			(effects
 				(font
