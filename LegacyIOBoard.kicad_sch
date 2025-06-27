@@ -23831,7 +23831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33.2k"
+		(property "Value" "33k"
 			(at 307.34 267.9699 0)
 			(effects
 				(font
